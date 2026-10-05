@@ -1,64 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 430" width="700" height="430" role="img" aria-labelledby="t d" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3NjI4NGQzMy0xOTdlLTRiMDYtYjA1My04MmY2OTcxMGU3NTcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIUtPZYwDjqgL3avSHH3LK0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDphZjdiMjRiOS00ZGRkLTQyYTUtYjI2ZC01ZDQ1NTQzN2NiN2NscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNonGjtbyyloz3s+y9w0HL2IAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggonqv7dEPGCdrjxUvyZIAEc515YSsN6JFN0PRuLPvfcekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaF1QOdSfO58iJx7ZczGVIzIAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAXC5mSZj5FauvAr9K9gat3sNHOqJoMGsXrTRjsFLmjYmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi3Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjc2Mjg0ZDMzLTE5N2UtNGIwNi1iMDUzLTgyZjY5NzEwZTc1Ny9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmExMjdhY2JjLTdkM2MtNDQzNC1hY2M5LWRjZDA1ZjQ4OTZjMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCieq/t0Q8YJ2uPFS/JkgARznXlhKw3okU3Q9G4s+99x6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggErCUz+ZwU3ZPRJcKolmuk5wtNEWKms6QMG6wGqdIPDWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggYuWHQ3bMtKLzHXYzy3Gdec0tqm9So0Mh9pw17Pl/Fah0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQBlHZCxK+hDhO21eZmfvd3jkItiQtmIZZmeRHaaQbyPcjVGW6oFLW/Ns84YdXIfEu/mt4aVxog5ifR/5UNxkHOY=</c2pa:manifest></metadata>
-  <title id="t">Shivam Raj, Full Stack Developer (MERN)</title>
-  <desc id="d">A code editor window showing a JavaScript object: Full Stack Developer, JavaScript and Java, React, Node.js, Express, MongoDB, shipped GenZVibe and Nestio, building DevCollab, 100+ DSA problems in Java, open to SDE and Full Stack roles.</desc>
-  <defs>
-    <linearGradient id="bar" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0" stop-color="#247bff"/>
-      <stop offset="1" stop-color="#8a5cff"/>
-    </linearGradient>
-    <style>
-      text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:17px;fill:#cdd6f4}
-      .n{fill:#46547a;font-size:14px;text-anchor:end}
-      .c{fill:#ff7a90}
-      .v{fill:#9fd0ff}
-      .k{fill:#7aa7ff}
-      .s{fill:#f4c98b}
-      .p{fill:#7d8aa8}
-      .m{fill:#5b6a8a;font-style:italic}
-      .tab{font-size:13px;fill:#9aa8c7}
-      .l{animation:in .45s ease-out both}
-      .cur{animation:blink 1.1s steps(2,start) infinite;animation-delay:4.6s}
-      @keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
-      @keyframes blink{to{opacity:0}}
-      @media (prefers-reduced-motion:reduce){.l,.cur{animation:none}}
-    </style>
-  </defs>
+<p align="center">
+  <img src="./hero.svg?v=1" alt="Shivam Raj: Full Stack Developer (MERN), Java and DSA, open to SDE and Full Stack roles" width="700" />
+</p>
 
-  <rect x="1" y="1" width="698" height="428" rx="14" fill="#0b1220" stroke="#223155" stroke-width="2"/>
-  <rect x="1" y="1" width="698" height="44" rx="14" fill="#0f1a2f"/>
-  <rect x="1" y="30" width="698" height="15" fill="#0f1a2f"/>
-  <rect x="16" y="1" width="668" height="3" fill="url(#bar)"/>
-  <circle cx="26" cy="24" r="6" fill="#ff5f57"/>
-  <circle cx="46" cy="24" r="6" fill="#febc2e"/>
-  <circle cx="66" cy="24" r="6" fill="#28c840"/>
-  <text class="tab" x="104" y="29">shivam.js</text>
-  <line x1="0" y1="45" x2="700" y2="45" stroke="#223155"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-rajfullstack"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shivamraj6436@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-SDE%20%2F%20Full%20Stack%20Roles-247BFF?style=for-the-badge" alt="Open to SDE and Full Stack roles" />
+</p>
 
-  <g xml:space="preserve">
-    <text class="n" x="52" y="92">1</text>
-    <text class="n" x="52" y="119">2</text>
-    <text class="n" x="52" y="146">3</text>
-    <text class="n" x="52" y="173">4</text>
-    <text class="n" x="52" y="200">5</text>
-    <text class="n" x="52" y="227">6</text>
-    <text class="n" x="52" y="254">7</text>
-    <text class="n" x="52" y="281">8</text>
-    <text class="n" x="52" y="308">9</text>
-    <text class="n" x="52" y="335">10</text>
-    <text class="n" x="52" y="362">11</text>
-    <text class="n" x="52" y="389">12</text>
+I build full-stack web apps that go live: authentication, payments, admin dashboards and maps. B.Tech CSE at Subharti University (2027), solving DSA in Java. Available for internships now, full-time from 2027.
 
-    <text class="l" style="animation-delay:.3s" x="78" y="92"><tspan class="c">const </tspan><tspan class="v">shivam </tspan><tspan class="p">= {</tspan></text>
-    <text class="l" style="animation-delay:.7s" x="102" y="119"><tspan class="k">role</tspan><tspan class="p">: </tspan><tspan class="s">"Full Stack Developer (MERN)"</tspan><tspan class="p">,</tspan></text>
-    <text class="l" style="animation-delay:1.05s" x="102" y="146"><tspan class="k">languages</tspan><tspan class="p">: [</tspan><tspan class="s">"JavaScript"</tspan><tspan class="p">, </tspan><tspan class="s">"Java"</tspan><tspan class="p">],</tspan></text>
-    <text class="l" style="animation-delay:1.4s" x="102" y="173"><tspan class="k">stack</tspan><tspan class="p">: [</tspan><tspan class="s">"React"</tspan><tspan class="p">, </tspan><tspan class="s">"Node.js"</tspan><tspan class="p">, </tspan><tspan class="s">"Express"</tspan><tspan class="p">, </tspan><tspan class="s">"MongoDB"</tspan><tspan class="p">],</tspan></text>
-    <text class="l" style="animation-delay:1.75s" x="102" y="200"><tspan class="k">shipped</tspan><tspan class="p">: [</tspan><tspan class="s">"GenZVibe"</tspan><tspan class="p">, </tspan><tspan class="s">"Nestio"</tspan><tspan class="p">],</tspan></text>
-    <text class="l" style="animation-delay:2.1s" x="102" y="227"><tspan class="k">building</tspan><tspan class="p">: </tspan><tspan class="s">"DevCollab"</tspan><tspan class="p">,</tspan></text>
-    <text class="l" style="animation-delay:2.45s" x="102" y="254"><tspan class="k">dsa</tspan><tspan class="p">: </tspan><tspan class="s">"100+ problems in Java"</tspan><tspan class="p">,</tspan></text>
-    <text class="l" style="animation-delay:2.8s" x="102" y="281"><tspan class="k">openTo</tspan><tspan class="p">: [</tspan><tspan class="s">"SDE"</tspan><tspan class="p">, </tspan><tspan class="s">"Full Stack"</tspan><tspan class="p">],</tspan></text>
-    <text class="l" style="animation-delay:3.15s" x="102" y="308"><tspan class="k">available</tspan><tspan class="p">: </tspan><tspan class="s">"internships now, full-time 2027"</tspan><tspan class="p">,</tspan></text>
-    <text class="l" style="animation-delay:3.5s" x="78" y="335"><tspan class="p">};</tspan></text>
-    <text class="l" style="animation-delay:3.9s" x="78" y="362"><tspan class="m">// next: your team</tspan></text>
-  </g>
-  <rect class="cur" x="78" y="374" width="10" height="20" fill="#247bff"/>
-</svg>
+## Shipped
+
+| Project | What it does | Links |
+|---|---|---|
+| **GenZVibe** | MERN e-commerce: cart, checkout, Razorpay payments with backend signature verification, admin dashboard with sales analytics | [Live](https://genzvibe.onrender.com) · [Code](https://github.com/singhshivamraj/GenZVibe) |
+| **Nestio** | Airbnb/OYO-style hotel booking: Passport.js auth, Joi validation, every listing pinned on a map | [Live](https://nestio-1.onrender.com/listings) · [Code](NESTIO_REPO_LINK) |
+| **DevCollab** *(in progress)* | Real-time collaborative coding rooms with Socket.IO and Monaco Editor | [Code](DEVCOLLAB_REPO_LINK) |
+
+## How GenZVibe handles a payment
+
+```mermaid
+flowchart LR
+    A[Customer pays via Razorpay] --> B[Frontend sends payment response]
+    B --> C{Backend verifies signature}
+    C -- valid --> D[Order created in MongoDB]
+    C -- invalid --> E[Request rejected]
+```
+
+## Toolbox
+
+<img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,java,tailwind,html,css,git,github" alt="JavaScript, React, Redux, Node.js, Express, MongoDB, Java, Tailwind CSS, HTML, CSS, Git, GitHub" />
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/shivam-rajfullstack) · shivamraj6436@gmail.com
