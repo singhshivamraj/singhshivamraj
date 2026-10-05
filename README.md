@@ -1,114 +1,234 @@
 <p align="center">
-  <img src="./hero.svg?v=2" alt="Shivam Raj — Full Stack Developer | MERN | Java & DSA" width="760" />
+  <img src="./hero.svg" alt="Shivam Raj — Software Engineer, Full Stack Developer" width="900" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-rajfullstack">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shivamraj6436@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-SDE%20%7C%20Full%20Stack-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20SDE%20%2F%20FULL%20STACK-111827?style=for-the-badge" />
 </p>
 
 <br>
 
-## About
+01 — ENGINEERING PROFILE
 
-I'm **Shivam Raj**, a B.Tech Computer Science student at **Subharti University**, focused on building production-ready full-stack applications with the **MERN stack**.
+Shivam Raj
+├── Software Engineer / Full Stack Developer
+├── Primary stack     → MERN
+├── Programming       → Java · JavaScript
+├── Problem solving   → DSA
+├── Interests         → Backend · APIs · Payments · Deployment
+└── Currently         → Building + shipping real products
 
-I enjoy taking an idea from **database schema → backend APIs → frontend → deployment** and making it work as a real product.
+I like taking a feature all the way from database schema → API → frontend → deployment.
 
-Currently, I'm:
-- Building full-stack applications with **React, Node.js, Express and MongoDB**
-- Solving **DSA problems in Java**
-- Exploring real-world backend concepts like **authentication, payments, APIs and deployment**
-- Building projects that are actually **deployed and usable**
+B.Tech CSE @ Subharti University · Graduating 2027
+Available for internships now · Full-time opportunities from 2027
 
-**Looking for:** Software Developer / SDE / Full Stack opportunities  
-**Internships:** Available now  
-**Full-time:** Available from 2027
+02 — SHIPPED SYSTEMS
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 Featured Projects
+GENZVIBE
 
-### 🛍️ GenZVibe — Full Stack E-commerce
+MERN E-commerce Platform
 
-A production-style MERN e-commerce platform with a complete shopping and payment workflow.
+A full-stack shopping platform with a real checkout and payment workflow.
 
-**Built with:** React · Node.js · Express · MongoDB · Razorpay · Cloudinary
+Engineering
 
-**Highlights**
-- User authentication and protected routes
-- Product browsing, cart and checkout
-- Razorpay payment integration
-- **Backend payment signature verification**
-- Orders created only after successful verification
-- Admin dashboard with sales analytics
-- Product and order management
-- Image uploads through Cloudinary
-- Deployed full-stack application
+React + Node.js + Express
 
-**Live:** [genzvibe.onrender.com](https://genzvibe.onrender.com)  
-**Source:** [GitHub Repository](https://github.com/singhshivamraj/GenZVibe)
+MongoDB + Mongoose
 
----
+Razorpay integration
 
-### 🏠 Nestio — Hotel & Property Booking
+Backend payment signature verification
 
-An Airbnb/OYO-style property booking platform focused on authentication, listings, reviews and location-based discovery.
+Authentication & protected routes
 
-**Built with:** Node.js · Express · MongoDB · EJS · Passport.js · Joi · MapLibre
+Admin dashboard + sales analytics
 
-**Highlights**
-- User authentication with Passport.js
-- Create, edit and delete property listings
-- Reviews and ratings
-- Joi-based server-side validation
-- Interactive map for property locations
-- Search and category-based filtering
-- Cloudinary image uploads
-- Session-based authentication
-- Deployed application
+Cloudinary image uploads
 
-**Live:** [nestio-1.onrender.com](https://nestio-1.onrender.com/listings)  
-**Source:** [GitHub Repository](NESTIO_REPO_LINK)
+Deployed on Render
 
----
+LIVE ↗ · SOURCE ↗
 
-### 👨‍💻 DevCollab — Real-Time Coding Platform
+</td>
+<td width="50%" valign="top">
 
-**Currently building**
+NESTIO
 
-A collaborative coding platform where developers can create rooms and code together in real time.
+Property & Hotel Booking Platform
 
-**Planned stack:** React · Node.js · Socket.IO · Monaco Editor
+An Airbnb/OYO-style application focused on listings, authentication and location-based discovery.
 
-**Core idea**
-- Real-time collaborative coding
-- Shared coding rooms
-- Live code synchronization
-- Multiple users in the same workspace
-- Developer-focused collaboration features
+Engineering
 
-**Source:** [GitHub Repository](DEVCOLLAB_REPO_LINK)
+Node.js + Express
 
----
+MongoDB + Mongoose
 
-## 💳 Engineering Spotlight — Payment Verification
+Passport.js authentication
 
-One part I'm particularly proud of in **GenZVibe** is how payment confirmation is handled.
+Joi server-side validation
 
-The frontend never directly decides whether an order is paid.
+Reviews & ratings
 
-```mermaid
-flowchart LR
-    A[Customer] --> B[Razorpay Checkout]
-    B --> C[Payment Response]
-    C --> D[Backend API]
-    D --> E{Verify Signature}
-    E -->|Valid| F[Create Order]
-    E -->|Invalid| G[Reject Request]
-    F --> H[(MongoDB)]
+Map-based listing discovery
+
+Search + category filtering
+
+Cloudinary uploads
+
+Deployed on Render
+
+LIVE ↗ · SOURCE ↗
+
+</td>
+</tr>
+</table>
+
+DEVCOLLAB — currently building
+
+Real-time collaborative coding platform
+
+React · Node.js · Socket.IO · Monaco Editor
+
+Shared coding rooms where developers can write and collaborate on code in real time.
+
+SOURCE ↗
+
+03 — HOW I BUILD
+
+                    ┌──────────────────┐
+                    │      PRODUCT     │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │   React / UI     │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │ REST API / Auth  │
+                    │ Node + Express   │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │ MongoDB / Data   │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │ Cloud / Deploy   │
+                    └──────────────────┘
+
+I care about the part between "it works locally" and "it actually works as a product."
+
+04 — ENGINEERING SPOTLIGHT
+
+GENZVIBE / PAYMENT PIPELINE
+
+The frontend does not decide whether an order is paid.
+
+Customer
+   │
+   ▼
+Razorpay Checkout
+   │
+   ▼
+Payment Response
+   │
+   ▼
+Backend API
+   │
+   ▼
+Signature Verification
+   │
+   ├──── invalid ────► Request rejected
+   │
+   ▼ valid
+Create Order
+   │
+   ▼
+MongoDB
+
+Key idea: an order is created only after the backend verifies the Razorpay payment signature.
+
+05 — TOOLBOX
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,java,tailwind,html,css,git,github,postman" alt="JavaScript React Redux Node.js Express MongoDB Java Tailwind HTML CSS Git GitHub Postman" />
+</p>
+
+Area
+
+Stack
+
+Frontend
+
+React · Redux · JavaScript · Tailwind CSS
+
+Backend
+
+Node.js · Express · REST APIs
+
+Database
+
+MongoDB · Mongoose
+
+Programming
+
+Java · JavaScript · DSA
+
+Auth
+
+JWT · Passport.js · Sessions
+
+Integrations
+
+Razorpay · Cloudinary
+
+Tools
+
+Git · GitHub · Postman
+
+06 — CURRENT BUILD
+
+[████████████████████░░]  DEV COLLAB
+
+Real-time coding rooms
+        +
+Socket.IO synchronization
+        +
+Monaco Editor
+        ↓
+Collaborative developer workspace
+
+07 — WHAT I'M LOOKING FOR
+
+SDE · Full Stack Developer · MERN Developer · Software Engineering Internships
+
+I want to work on products where I can contribute across the stack, learn from experienced engineers, and ship software that real users can use.
+
+<br>
+
+<p align="center">
+
+BUILD → DEBUG → SHIP → IMPROVE
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/shivam-rajfullstack">LinkedIn</a>
+  ·  
+<a href="mailto:shivamraj6436@gmail.com">Email</a>
+  ·  
+<a href="https://github.com/singhshivamraj">GitHub</a>
+
+</p>
