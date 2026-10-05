@@ -1,4 +1,96 @@
+<svg width="1200" height="350" viewBox="0 0 1200 350" xmlns="http://www.w3.org/2000/svg">
 
-<p align="center">
-  <img src="./hero.svg" alt="Shivam Raj — Full Stack Developer | MERN | Java & DSA" width="760" />
-</p>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="350" rx="24" fill="url(#bg)"/>
+
+  <circle cx="1050" cy="70" r="100" fill="#38bdf8" opacity="0.08"/>
+  <circle cx="1100" cy="290" r="150" fill="#818cf8" opacity="0.07"/>
+
+  <rect x="70" y="65" width="7" height="220" rx="4" fill="url(#accent)"/>
+
+  <text x="110" y="105"
+        fill="#94a3b8"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="18"
+        letter-spacing="4">
+    HELLO, I'M
+  </text>
+
+  <text x="110" y="165"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="54"
+        font-weight="700">
+    SHIVAM RAJ
+  </text>
+
+  <text x="110" y="210"
+        fill="url(#accent)"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="27"
+        font-weight="600">
+    Full Stack Developer
+  </text>
+
+  <text x="110" y="250"
+        fill="#cbd5e1"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17">
+    MERN • Java • DSA • REST APIs
+  </text>
+
+  <text x="110" y="285"
+        fill="#64748b"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="15">
+    Building real products from database to deployment.
+  </text>
+
+  <g transform="translate(870 125)">
+    <rect width="210" height="105" rx="16"
+          fill="#0b1220"
+          stroke="#334155"
+          stroke-width="1"/>
+
+    <text x="25" y="35"
+          fill="#38bdf8"
+          font-family="monospace"
+          font-size="16">
+      &lt;/&gt;
+    </text>
+
+    <text x="25" y="63"
+          fill="#e2e8f0"
+          font-family="monospace"
+          font-size="15">
+      build()
+    </text>
+
+    <text x="25" y="87"
+          fill="#64748b"
+          font-family="monospace"
+          font-size="13">
+      deploy();
+    </text>
+  </g>
+
+</svg>
