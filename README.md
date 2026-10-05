@@ -106,28 +106,43 @@ Shared coding rooms where developers can write and collaborate on code in real t
 
 SOURCE ↗
 
-03 — HOW I BUILD
+# `03` — ENGINEERING PIPELINE
 
-                    ┌──────────────────┐
-                    │      PRODUCT     │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │   React / UI     │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │ REST API / Auth  │
-                    │ Node + Express   │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │ MongoDB / Data   │
-                    └────────┬─────────┘
-                             ↓
-                    ┌──────────────────┐
-                    │ Cloud / Deploy   │
-                    └──────────────────┘
+```mermaid
+flowchart LR
+
+    A(["💡 IDEA<br/>What are we building?"])
+    B(["⚛️ BUILD<br/>React / UI"])
+    C(["⚙️ ENGINE<br/>Node + Express"])
+    D(["🗄️ STORE<br/>MongoDB"])
+    E(["🔐 SECURE<br/>Auth + Validation"])
+    F(["🔌 INTEGRATE<br/>APIs + Payments"])
+    G(["☁️ SHIP<br/>Deploy"])
+    H(["🚀 LIVE<br/>Real Product"])
+
+    A --> B
+    B --> C
+    C --> D
+    C --> E
+    C --> F
+    D --> G
+    E --> G
+    F --> G
+    G --> H
+
+    style A fill:#0B1220,stroke:#38BDF8,color:#F8FAFC,stroke-width:2px
+    style B fill:#0B1220,stroke:#61DAFB,color:#F8FAFC,stroke-width:2px
+    style C fill:#0B1220,stroke:#68A063,color:#F8FAFC,stroke-width:2px
+    style D fill:#0B1220,stroke:#47A248,color:#F8FAFC,stroke-width:2px
+    style E fill:#0B1220,stroke:#F59E0B,color:#F8FAFC,stroke-width:2px
+    style F fill:#0B1220,stroke:#A78BFA,color:#F8FAFC,stroke-width:2px
+    style G fill:#0B1220,stroke:#818CF8,color:#F8FAFC,stroke-width:2px
+    style H fill:#0B1220,stroke:#22C55E,color:#F8FAFC,stroke-width:3px
+```
+
+<p align="center">
+  <sub>FROM IDEA → ENGINEERING → PRODUCTION</sub>
+</p>
 
 I care about the part between "it works locally" and "it actually works as a product."
 
